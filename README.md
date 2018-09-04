@@ -6,3 +6,9 @@
 .h
 
 ![image](https://github.com/PBgitHub/MyImage/raw/master/git_Image/enlargeTouchArea/enlargeTouchArea1.png)
+
+.m
+
+![image](https://github.com/PBgitHub/MyImage/raw/master/git_Image/enlargeTouchArea/enlargeTouchArea2.png)
+
+![image](https://github.com/PBgitHub/MyImage/raw/master/git_Image/enlargeTouchArea/enlargeTouchArea3.png)
