@@ -5,4 +5,4 @@
 
 .h
 
-![Image text]https://github.com/PBgitHub/MyImage/raw/master/git_Image/enlargeTouchArea/enlargeTouchArea1.png
+https://github.com/PBgitHub/MyImage/raw/master/git_Image/enlargeTouchArea/enlargeTouchArea1.png
